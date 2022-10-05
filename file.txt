@@ -1,0 +1,38 @@
+Launching lib\main.dart on RMX1921 in debug mode...
+Running Gradle task 'assembleDebug'...                             22.4s
+√  Built build\app\outputs\flutter-apk\app-debug.apk.
+Installing build\app\outputs\flutter-apk\app.apk...                10.3s
+Syncing files to device RMX1921...                                 228ms
+
+Flutter run key commands.
+r Hot reload. 
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+ Running with sound null safety 
+
+An Observatory debugger and profiler on RMX1921 is available at: http://127.0.0.1:65388/7fuX7xQAIUU=/
+I/ample.first_ap( 3675): ProcessProfilingInfo new_methods=12 is saved saved_to_disk=1 resolve_classes_delay=5000
+W/Gralloc3( 3675): mapper 3.x is not supported
+The Flutter DevTools debugger and profiler on RMX1921 is available at: http://127.0.0.1:9101?uri=http://127.0.0.1:65388/7fuX7xQAIUU=/
+D/SurfaceView( 3675): 52350808 updateSurfacePosition RenderWorker, frameNr = 1, postion = [0, 0, 1080, 2208]
+I/ample.first_ap( 3675): ProcessProfilingInfo new_methods=11 is saved saved_to_disk=1 resolve_classes_delay=5000
+D/ColorViewRootUtil( 3675): nav bar mode ignore false downX 360 downY 394 mScreenHeight 2340 mScreenWidth 1080 mStatusBarHeight 54 globalScale 1.125 nav mode 0 rotation 0 event MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=360.0, y[0]=394.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=191463249, downTime=191463249, deviceId=6, source=0x1002, displayId=0 }
+I/Choreographer( 3675): Skipped 2 frames!  The application may be doing too much work on its main thread.
+D/ColorViewRootUtil( 3675): nav bar mode ignore false downX 352 downY 730 mScreenHeight 2340 mScreenWidth 1080 mStatusBarHeight 54 globalScale 1.125 nav mode 0 rotation 0 event MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=352.0, y[0]=730.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=191472179, downTime=191472179, deviceId=6, source=0x1002, displayId=0 }
+D/ColorViewRootUtil( 3675): nav bar mode ignore false downX 571 downY 968 mScreenHeight 2340 mScreenWidth 1080 mStatusBarHeight 54 globalScale 1.125 nav mode 0 rotation 0 event MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=571.0, y[0]=968.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=191474698, downTime=191474698, deviceId=6, source=0x1002, displayId=0 }
+I/flutter ( 3675): <!DOCTYPE html>
+I/flutter ( 3675): <html lang="en" >
+I/flutter ( 3675): <head>
+I/flutter ( 3675): <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+I/flutter ( 3675): <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+I/flutter ( 3675): <!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href. 
+I/flutter ( 3675): 	 dyn-cs:* URIs are resolved using the values within the 'wp_dynamicContentSpots_85' theme module. -->
+I/flutter ( 3675): <link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!2r_4gEXYvhmhw0brCRY9hg/sp/mashup:ra:collection?soffset=0&amp;eoffset=8&amp;themeID=ZJ_78ACHK42NO4UB0Q80VIQ2DOVJ2&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1520682121880&amp;entry=wp_theme_portal_edit_85__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css" type="text/css"/><link rel="alternate" id="head_cs
+I/flutter ( 3675): Status:success
+I/Choreographer( 3675): Skipped 1 frames!  The application may be doing too much work on its main thread.
+Application finished.
+Terminate batch job (Y/N)? 
